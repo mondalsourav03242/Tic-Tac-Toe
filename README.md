@@ -13,3 +13,5 @@ At each move, The game will show whose move (Player A or Player B) it is. When t
 # Winner: Player A
 # Winner: Player B
 # Draw
+ # Players selection
+When the game is loaded, you need to select your players. You need to select the type of player you want by clicking in the dropdown, either computer or human. You also can select the player that goes first by clicking in X or O players.
